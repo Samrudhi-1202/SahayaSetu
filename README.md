@@ -46,7 +46,9 @@ pip install streamlit
 ```bash
 streamlit run app.py
 ```
+## 🌐 Live Demo
 
+[Click here to use SahayaSetu](https://sahayasetu-fuqzuzwxn6kpwyomucens6.streamlit.app/)
 ## 🎯 Objective
 
 To promote Kannada learning and strengthen community support through a simple and accessible platform.
